@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+    background-color:white;
+    margin: 0;
+    padding:0;
+}
+.part1{
+    background: black;
+    color: white;
+    width:100%;
+    height:15em; 
+    text-align: center;  
+}
+.part-1-heading{
+    font-weight: 600;
+    font-size:  30px;
+    word-spacing:5px;
+    letter-spacing: 2px;
+}
+.part-1-head{
+    font-weight: 600;
+    color: rgb(236, 233, 233);
+}
+.home{
+    text-align: left;
+    padding-left: 40px;
+    padding-bottom:5em;
+    word-spacing:10px;
+}
+.part2{
+    display: inline-block;
+    background-color: white;
+    width:50%;
+    height:27em;
+    margin: 0;
+    border: 1px;
+
+}
+.part-2-heading{
+    font-weight: bold;
+    line-height:2em;
+    font-family: 'Roboto', sans-serif;
+    font: size 20px;
+}
+.part-2-content{
+    color: gray;
+    font: size 15px;
+}
+.part2-1{
+    display: inline-block;
+    background-color: white;
+    width:50%;
+    height:27em;
+    float: right;
+    margin: 0;
+    border: 1px;
+}
+.part2-2{
+    background-color: white;
+    width:100%;
+    height:3em;
+}
+.media-position{
+    padding-left:40%;
+}
+.contant-part2{
+
+    margin:1em;
+    margin-left: 18em;
+}
+.kazi-position{
+ padding-top:5em;
+ padding-left:10em;
+
+}
+.part3{
+    width: 100%;
+    height:130px;
+    background-color: black;
+    color: white;
+    text-align: center; 
+    padding-top:75px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.part4{
+    background-color: white;
+    width: 100%;
+    height:15em;
+    
+}
+.part4-1{
+    background-color:white;
+    width:100%;
+    height:5em;
+}
+.hr-1{
+    position: relative;
+    top:50px;
+    width: 100%;
+    height: 1px;
+    background-color:#E9E6E4;
+}
+ul{
+    margin: 5em;
+    font-size:medium;
+
+}
+.part4-2{
+    display: inline-block;
+    background-color:white;
+    width:49%;
+    height:27em;
+    margin: 0;
+    border: 1px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.part4-3{
+    display: inline-block;
+    background-color: white;
+    width:50%;
+    height:27em;
+    float: right;
+    margin: 0;
+    border: 1px;
+    font-family: 'Roboto', sans-serif;
+
+}
+li{
+    color: gray;
+}
+.hr-2{
+    position: relative;
+    top:0px;
+    width: 100%;
+    height: 1px;
+    background-color:#E9E6E4;
+
+}
+.poetry{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+}
+.poem{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 20px;
+}
+.star-awards{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom:20px;
+}
+button{
+    margin:30px 20px 0px 20px;
+    border-radius:5px;
+    padding:10px;
+    float: center;
+    border-color: rgb(194, 191, 191);
+    background-color: white;
+    inline-size:20em;
+}
+.button-sp{
+    
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.part5{
+    display: inline-block;
+    width:29.45%;
+    height:140px;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding-left: 10em;
+    line-height: 2em;
+    padding-top: 3em;
+}
+.part5-1{
+    display: inline-block;
+    margin:0 auto;
+    border:0;
+    position: absolute;
+    left:40%;
+    width:18.85%;
+    height:140px;
+    background-color: black;
+    color: white;
+    padding-left:1em;
+    line-height: 2em;
+    padding-top: 3em;
+}
+.part5-2{
+    display: inline-block;
+    float: right;
+    margin: 0;
+    width:40%;
+    height:140px;
+    background-color: black;
+    color: white;
+    padding-top: 3em;
+
+}
+.f-heading{
+    font-weight:bold;
+    font: size 13px;
+}
+.greay{
+    color: gray;
+}
+.blue{
+    color: blue;
+}
+.span-line{
+    line-height: 2em;
+}
